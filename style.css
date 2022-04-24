@@ -1,0 +1,43 @@
+body {
+    background-color: grey;
+    font-family: Helvetica Neue, Helvetica, Arial;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: black;
+    padding: 20px;
+}
+section {
+    background-color: white;
+    color: black;
+    padding: 20px;
+}
+div {
+    display: inline-block;
+    background-color: pink;
+    width: 170px;
+    text-align: center;
+    padding: 15px;
+}
+footer {
+    background-color: black;
+    padding: 20px;
+}
+li {
+    list-style-type: none;
+    display: inline;
+    padding: 15px;
+}
+#title {
+    font-family: chalkduster;
+    color: skyblue;
+    text-align: center;
+    font-size: 50px;
+}
+h2 {
+    font-family: cursive;
+    background-color: black;
+    color: rgb(138, 255, 157);
+}
